@@ -1,0 +1,7 @@
+C:\Users\sarah.steiner\projects\devopswebapp\Publish\devopswebapp.exe
+C:\Users\sarah.steiner\projects\devopswebapp\Publish\appsettings.Development.json
+C:\Users\sarah.steiner\projects\devopswebapp\Publish\appsettings.json
+C:\Users\sarah.steiner\projects\devopswebapp\Publish\devopswebapp.dll
+C:\Users\sarah.steiner\projects\devopswebapp\Publish\devopswebapp.deps.json
+C:\Users\sarah.steiner\projects\devopswebapp\Publish\devopswebapp.runtimeconfig.json
+C:\Users\sarah.steiner\projects\devopswebapp\Publish\devopswebapp.pdb

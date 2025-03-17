@@ -1,34 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj": {}
+    "C:\\Users\\sarah.steiner\\projects\\devopswebapp\\devopswebapp.csproj": {}
   },
   "projects": {
-    "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj": {
+    "C:\\Users\\sarah.steiner\\projects\\devopswebapp\\devopswebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
+        "projectUniqueName": "C:\\Users\\sarah.steiner\\projects\\devopswebapp\\devopswebapp.csproj",
         "projectName": "devopswebapp",
-        "projectPath": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
-        "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\obj\\",
+        "projectPath": "C:\\Users\\sarah.steiner\\projects\\devopswebapp\\devopswebapp.csproj",
+        "packagesPath": "C:\\Users\\sarah.steiner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sarah.steiner\\projects\\devopswebapp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Charles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sarah.steiner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -36,17 +33,25 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

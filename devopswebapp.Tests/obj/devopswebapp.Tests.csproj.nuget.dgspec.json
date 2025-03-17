@@ -1,37 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {}
+    "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {}
   },
   "projects": {
-    "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {
+    "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
+        "projectUniqueName": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
         "projectName": "devopswebapp.Tests",
-        "projectPath": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
-        "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp.Tests\\obj\\",
+        "projectPath": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
+        "packagesPath": "C:\\Users\\theso\\.nuget\\packages\\",
+        "outputPath": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Charles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\theso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj": {
-                "projectPath": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj"
+              "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj": {
+                "projectPath": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj"
               }
             }
           }
@@ -43,7 +44,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.TestHost": {
               "target": "Package",
@@ -81,35 +83,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj": {
+    "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
+        "projectUniqueName": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
         "projectName": "devopswebapp",
-        "projectPath": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
-        "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "f:\\DOProjects\\devops-webapp-solution\\devops-webapp\\devopswebapp\\obj\\",
+        "projectPath": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\devopswebapp.csproj",
+        "packagesPath": "C:\\Users\\theso\\.nuget\\packages\\",
+        "outputPath": "c:\\projects\\DevOps\\azureappupdated\\devops-webapp\\devopswebapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Charles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\theso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -120,7 +123,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -139,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
